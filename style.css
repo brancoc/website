@@ -6,11 +6,10 @@ body {
   display: grid; 
   grid-template-columns: 1fr 1fr 1fr; 
   grid-gap: 20px; 
-  background-color: #F7DB91;
 }
 
 .column {
   padding: 15px;
-  background-color: #f1f1f1;
-  border: 1px solid #ccc;
+  border: 1px solid #F7DB91;
+  background-color: #F7DB91;
 }
