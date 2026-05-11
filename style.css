@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFDCE;
+  background-color: #F7F8F0;
 }
 
 .container {
@@ -10,6 +10,6 @@ body {
 
 .column {
   padding: 15px;
-  border: 1px solid #FFFDCE;
-  background-color: #9BC264;
+  border: 1px solid #355872;
+  background-color: #9CD5FF;
 }
